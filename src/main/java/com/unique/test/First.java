@@ -6,6 +6,7 @@ package com.unique.test;
  */
 public class First {
     private String sayFirst(){
+        int b = 200;
         return "这是第一次修改";
     }
 }
